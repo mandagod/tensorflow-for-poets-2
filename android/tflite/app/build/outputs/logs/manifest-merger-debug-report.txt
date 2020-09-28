@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/85721a35c1a48bffd5f45aea9225f99e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a923c95d0a4bbfa712716424189aba7c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a24bab8252e75160fe4c4003651706eb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8cbf8ffa42a62999091ed5db884bb47c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/e6d54a03116e0312a2c22d92605b218f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/50df7d34fc3f1b3393abc10b9a1f3e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7d256e7db789818f5392e3bb2f241ef0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/29bbc3d17b3be3c98170d19a381fd9cc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/97b399e10ff09eb55ee62f8d18eedaf7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6235adfdae3c674fb0b973e7bc0f78e8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/620cb551d9c5fc899b0b3b1c26411c16/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/630090cd3178277081aa077c3a07e5a9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/71be587ae6b0fef8bc640bb3ca024e2b/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/7e67629ca4e48ae25b7a0dd0d1bc2127/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/85721a35c1a48bffd5f45aea9225f99e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/85721a35c1a48bffd5f45aea9225f99e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a923c95d0a4bbfa712716424189aba7c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a923c95d0a4bbfa712716424189aba7c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a24bab8252e75160fe4c4003651706eb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a24bab8252e75160fe4c4003651706eb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8cbf8ffa42a62999091ed5db884bb47c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8cbf8ffa42a62999091ed5db884bb47c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/e6d54a03116e0312a2c22d92605b218f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/e6d54a03116e0312a2c22d92605b218f/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7d256e7db789818f5392e3bb2f241ef0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7d256e7db789818f5392e3bb2f241ef0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/29bbc3d17b3be3c98170d19a381fd9cc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/29bbc3d17b3be3c98170d19a381fd9cc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/97b399e10ff09eb55ee62f8d18eedaf7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/97b399e10ff09eb55ee62f8d18eedaf7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6235adfdae3c674fb0b973e7bc0f78e8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6235adfdae3c674fb0b973e7bc0f78e8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/620cb551d9c5fc899b0b3b1c26411c16/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/620cb551d9c5fc899b0b3b1c26411c16/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/630090cd3178277081aa077c3a07e5a9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/630090cd3178277081aa077c3a07e5a9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/71be587ae6b0fef8bc640bb3ca024e2b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/71be587ae6b0fef8bc640bb3ca024e2b/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/7e67629ca4e48ae25b7a0dd0d1bc2127/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/7e67629ca4e48ae25b7a0dd0d1bc2127/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/85721a35c1a48bffd5f45aea9225f99e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/85721a35c1a48bffd5f45aea9225f99e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a923c95d0a4bbfa712716424189aba7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a923c95d0a4bbfa712716424189aba7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a24bab8252e75160fe4c4003651706eb/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a24bab8252e75160fe4c4003651706eb/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8cbf8ffa42a62999091ed5db884bb47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/8cbf8ffa42a62999091ed5db884bb47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/e6d54a03116e0312a2c22d92605b218f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/e6d54a03116e0312a2c22d92605b218f/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/50df7d34fc3f1b3393abc10b9a1f3e1b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/50df7d34fc3f1b3393abc10b9a1f3e1b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7d256e7db789818f5392e3bb2f241ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7d256e7db789818f5392e3bb2f241ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/29bbc3d17b3be3c98170d19a381fd9cc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/29bbc3d17b3be3c98170d19a381fd9cc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/97b399e10ff09eb55ee62f8d18eedaf7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/97b399e10ff09eb55ee62f8d18eedaf7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6235adfdae3c674fb0b973e7bc0f78e8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/6235adfdae3c674fb0b973e7bc0f78e8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/620cb551d9c5fc899b0b3b1c26411c16/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/620cb551d9c5fc899b0b3b1c26411c16/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/630090cd3178277081aa077c3a07e5a9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/630090cd3178277081aa077c3a07e5a9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/71be587ae6b0fef8bc640bb3ca024e2b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/71be587ae6b0fef8bc640bb3ca024e2b/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/7e67629ca4e48ae25b7a0dd0d1bc2127/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/7e67629ca4e48ae25b7a0dd0d1bc2127/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/manda1/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/931fe09eb405f7796342502a29e58986/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml

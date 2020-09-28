@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Feb 26 17:17:51 CST 2019
+1.base=/Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=/Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=graph.lite
+0.set=ASSET
+0.base=/Users/manda1/Documents/Develope/TensorFlow/tensorflow-for-poets-2/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.baseType=DIRECTORY
+1.path=BUILD
